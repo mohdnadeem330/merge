@@ -13,7 +13,7 @@ def square(x,y):
 
 
 def multiply(x,y):
-    pass
+    return(x+y)
 
 
 def squareroot(x,y):
