@@ -9,7 +9,7 @@ def subtraction(x,y):
 
 
 def square(x,y):
-    pass
+    return(x*y)
 
 
 def multiply(x,y):
