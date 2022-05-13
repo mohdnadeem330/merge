@@ -5,7 +5,7 @@ def addition(x,y):
 
  
 def subtraction(x,y):
-    pass
+    return(x-y)
 
 
 def square(x,y):
